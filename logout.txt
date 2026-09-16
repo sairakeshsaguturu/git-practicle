@@ -1,0 +1,3 @@
+Logout Feature
+Clear user session
+Redirect user after logout
